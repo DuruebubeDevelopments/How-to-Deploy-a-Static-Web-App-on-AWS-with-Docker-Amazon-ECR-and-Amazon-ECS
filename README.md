@@ -1,3 +1,5 @@
+![1 _Docker (1)](https://github.com/DuruebubeDevelopments/How-to-Deploy-a-Static-Web-App-on-AWS-with-Docker-Amazon-ECR-and-Amazon-ECS/assets/157526035/4c71c2e2-bcdc-4d99-b112-5033c6419d6b)
+
 Deploy-a-Static-Web-App-on-AWS-with-Docker-Amazon-ECR-and-Amazon-ECS
 # Project Overview
 
